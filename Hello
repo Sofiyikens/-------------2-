@@ -1,0 +1,6 @@
+public class Hello
+{
+static void MyProgramm
+{Concole.WriteLine("Hello World")
+}
+}
